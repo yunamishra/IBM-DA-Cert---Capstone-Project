@@ -1,0 +1,28 @@
+Platform,Frequency
+AWS,22191
+Heroku,3798
+Netlify,3238
+Google Cloud,11605
+Fly.io,1189
+Cloudflare,6974
+Firebase,6443
+Vercel,5491
+Digital Ocean,5409
+Hetzner,2301
+VMware,3043
+Microsoft Azure,12850
+Databricks,918
+OCI,1332
+PythonAnywhere,892
+Render,1305
+Supabase,1767
+Managed Hosting,1386
+OpenShift,1120
+OVH,1397
+BM Cloud,506
+Alibaba Cloud,548
+Vultr,798
+Colocation,307
+Akamai,1425
+Scaleway,396
+OpenStack,716
